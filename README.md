@@ -34,7 +34,7 @@ Create a new OU named “_CLIENTS” and drag Client-1 into there
 Finish the lab, but do not delete the VMs in Azure. We will use them for upcoming labs.
 If you are done for the day and want to save money, simply “Stop”/turn off the VMs within the Azure Portal
 
-Part 2
+<h2>Install Active Directory: Part 2</h2>
 
 Turn on the DC-1 and Client-1 VMs in the Azure Portal if they are off.
 Setup Remote Desktop for non-administrative users on Client-1
