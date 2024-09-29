@@ -7,8 +7,13 @@
 <h2>Install Active Directory: Part 1</h2>
 <h3>Install Active Directory</h3>
 
+![image](https://github.com/user-attachments/assets/c987f1a4-c0ac-4d9c-a97a-6964b23f4ebe)
+
 - Login to DC-1 and install Active Directory Domain Services
-- Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
+
+  ![image](https://github.com/user-attachments/assets/4e5930ba-2d69-481e-8db0-7ff88effc5e7)
+
+- DC: Setup a new forest as mydomain.com
 - Restart and then log back into DC-1 as user: mydomain.com\labuser
 
 <h3>Create a Domain Admin user within the domain</h3>
